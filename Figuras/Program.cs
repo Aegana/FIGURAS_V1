@@ -9,6 +9,8 @@ namespace Figuras
             Figuras figuras = new Figuras();  //instanciando a la clase figuras;      
             figuras.areacuadrado(); //accedemos al objeto creado
             Console.ReadKey();
+
+
         }
     }
 }
